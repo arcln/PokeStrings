@@ -255,10 +255,13 @@
 	<string id="16780339">Presque innondé.</string>
 	<string id="16780340">Innondé.</string>
 
-	<string id="16780350">parfaitement</string>
-	<string id="16780351">joliment</string>
-	<string id="16780352">correctement</string>
-	<string id="16780353">difficilement</string>
+	<string id="16780350">excellemment</string>
+	<string id="16780351">magnifiquement</string>
+	<string id="16780352">bien</string>
+	<string id="16780353">moyennement</string>
+
+	<string id="16780324">\n<!-- Le plant de {00} a commencé a grandir. --></string>
+	<string id="16780325">\n<!-- La plante {00} est en train de grandir {01}. --></string>
 
 	<!-- GYM LEADERS -->
 	<!-- Kanto - Pewter City - Brock -->
