@@ -227,19 +227,19 @@
 	<string id="300014">Baies</string>
 	<string id="310018">Baies</string>
 
-	<string id="16780309">Planté.</string>
+	<string id="16780309">\n<!--Planté.--></string>
 	<string id="16780310">planté..</string>
 	<string id="16780311">grermé.</string>
 	<string id="16780312">graines</string>
 	<string id="16780313">pousse</string>
 
-	<string id="16780315">Sec.</string>
-	<string id="16780316">Humide.</string>
-	<string id="16780317">Mouillé.</string>
-	<string id="16780318">Innondé.</string>
+	<string id="16780315">\n<!--Sec.--></string>
+	<string id="16780316">\n<!--Humide.--></string>
+	<string id="16780317">\n<!--Mouillé.--></string>
+	<string id="16780318">\n<!--Innondé.--></string>
 
-	<string id="16780320">Presque sec.</string>
-	<string id="16780321">Presque innondé.</string>
+	<string id="16780320">\n<!--Presque sec.--></string>
+	<string id="16780321">\n<!--Presque innondé.--></string>
 	<string id="16780326">\n<!-- Plant? --></string>
 	<string id="16780327">\n<!-- Water? --></string>
 	<string id="16780328">\n<!-- Watered --></string>
@@ -248,12 +248,12 @@
 	<string id="16780330">Vous n'avez pas rammassé {00}.</string>
 	<string id="16780331">{01} {02}.</string>
 
-	<string id="16780335">Sec.</string>
-	<string id="16780336">Presque sec.</string>
-	<string id="16780337">Humide.</string>
-	<string id="16780338">Mouillé.</string>
-	<string id="16780339">Presque innondé.</string>
-	<string id="16780340">Innondé.</string>
+	<string id="16780335">\n<!--Sec.--></string>
+	<string id="16780336">\n<!--Presque sec.--></string>
+	<string id="16780337">\n<!--Humide.--></string>
+	<string id="16780338">\n<!--Mouillé.--></string>
+	<string id="16780339">\n<!--Presque innondé.--></string>
+	<string id="16780340">\n<!--Innondé.--></string>
 
 	<string id="16780350">excellemment</string>
 	<string id="16780351">magnifiquement</string>
