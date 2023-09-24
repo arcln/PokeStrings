@@ -228,10 +228,10 @@
 	<string id="310018">Baies</string>
 
 	<string id="16780309">\n<!--Planté.--></string>
-	<string id="16780310">planté..</string>
-	<string id="16780311">grermé.</string>
-	<string id="16780312">graines</string>
-	<string id="16780313">pousse</string>
+	<string id="16780310">\n<!--planté..--></string>
+	<string id="16780311">\n<!--grermé-->.</string>
+	<string id="16780312">\n<!--graines--></string>
+	<string id="16780313">\n<!--pousse--></string>
 
 	<string id="16780315">\n<!--Sec.--></string>
 	<string id="16780316">\n<!--Humide.--></string>
@@ -244,9 +244,9 @@
 	<string id="16780327">\n<!-- Water? --></string>
 	<string id="16780328">\n<!-- Watered --></string>
 
-	<string id="16780329">{01} {00}!\n\Rammasser? {00}?</string>
+	<string id="16780329">\n<!--{01} {00}!\n\Rammasser? {00}?--></string>
 	<string id="16780330">Vous n'avez pas rammassé {00}.</string>
-	<string id="16780331">{01} {02}.</string>
+	<string id="16780331">\n<!--{01} {02}.--></string>
 
 	<string id="16780335">\n<!--Sec.--></string>
 	<string id="16780336">\n<!--Presque sec.--></string>
