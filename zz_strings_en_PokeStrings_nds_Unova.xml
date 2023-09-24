@@ -49,15 +49,15 @@
 	<string block_id="0" entry_id="9" table_id="426">L'équipe est pleine.</string>
 
 	<!-- HMs -->
-	<string block_id="0" entry_id="0" table_id="280">Coupe?</string>
+	<string block_id="0" entry_id="0" table_id="280">\n</string>
 	<string block_id="0" entry_id="1" table_id="280"> <!-- used cut --></string>
 	<string block_id="0" entry_id="2" table_id="280">Pas Coupe!</string>
-	<string block_id="0" entry_id="6" table_id="280">Force?</string>
+	<string block_id="0" entry_id="6" table_id="280">\n</string>
 	<string block_id="0" entry_id="10" table_id="280"> <!-- used strength --></string>
 	<string block_id="0" entry_id="8" table_id="280">Pas Force!.</string>
-	<string block_id="0" entry_id="13" table_id="280">Surf?</string>
+	<string block_id="0" entry_id="13" table_id="280">\n</string>
 	<string block_id="0" entry_id="14" table_id="280"> <!-- used surf --></string>
-	<string block_id="0" entry_id="23" table_id="280">Cascade?</string>
+	<string block_id="0" entry_id="23" table_id="280">\n</string>
 	<string block_id="0" entry_id="24" table_id="280"> <!-- used waterfall --></string>
 	<string block_id="0" entry_id="25" table_id="280">Pas Cascade!</string>
 	<string block_id="0" entry_id="31" table_id="280">Plongée?</string>

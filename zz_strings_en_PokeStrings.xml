@@ -130,17 +130,17 @@
 	<!-- Ocarina Text -->
 	<string id="16780155">\n</string>
 	<!-- Hoenn - Cut -->
-	<string id="271124270">Coupe?</string>
+	<string id="271124270">\n</string>
 	<string id="271124337">\n</string>
 	<string id="271124349">Pas Coupe!</string>
 	<!-- Hoenn - Surf -->
-	<string id="271003606">Surf?</string>
+	<string id="271003606">\n</string>
 	<string id="271003661">\n</string>
 	<!-- Hoenn - Rock Smash -->
-	<string id="271124538">Éclate-roc?</string>
+	<string id="271124538">\n</string>
 	<string id="271124607">Pas Éclate-roc!</string>
 	<!-- Hoenn - Strength -->
-	<string id="271124780">Force?</string>
+	<string id="271124780">\n</string>
 	<string id="271124876">\n</string>
 	<string id="271124950">Pas Force!</string>
 	<string id="271125014">\n</string>
@@ -152,20 +152,20 @@
 	<string id="271125614">Plongée?</string>
 	<!-- Hoenn - Waterfall -->
 	<string id="271125134">Pas Cascade!</string>
-	<string id="271125187">Cascade?</string>
+	<string id="271125187">\n</string>
 	<string id="271125244">\n</string>
 
 	<!-- Kanto - Surf -->
-	<string id="1725806">Surf?</string>
+	<string id="1725806">\n</string>
 	<string id="1725861">\n</string>
 	<!-- Kanto - Strength -->
-	<string id="1827226">Force?</string>
+	<string id="1827226">\n</string>
 	<string id="1827322">\n</string>
 	<string id="1827396">Pas Force!</string>
 	<string id="1827460">\n</string>
 	<!-- Kanto - Waterfall -->
 	<string id="1827594">Pas Cascade!</string>
-	<string id="1827647">Cascade?</string>
+	<string id="1827647">\n</string>
 	<string id="1827704">\n</string>
 	<!-- Kanto - Dive -->
 	<string id="1827883">Pas Plongée!</string>
@@ -174,11 +174,11 @@
 	<string id="1828009">Pas Plongée!</string>
 	<string id="1828079">Plongée?</string>
 	<!-- Kanto - Cut -->
-	<string id="1826708">Coupe?</string>
+	<string id="1826708">\n</string>
 	<string id="1826775">\n</string>
 	<string id="1826787">\n</string>
 	<!-- Kanto - Rocksmash -->
-	<string id="1826973">Éclate-roc?</string>
+	<string id="1826973">\n</string>
 	<string id="1827042">Pas Éclate-roc!</string>
 
 	<!-- Safari -->
