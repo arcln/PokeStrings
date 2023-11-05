@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <strings is_primary="0" lang="fr" lang_full="Français (French)">
+	<string id="1116">Boutique</string>
+	<string id="3000">Boutique</string>
+	<string id="5126">Change d'emplacement.</string>
+
 	<!--
 		Strings used in Kanto and Hoenn found in the
 		dump_BPR_en.xml and dump_BPE_en.xml files respectively.
@@ -16,7 +20,7 @@
 	<string id="6062">{00} a trouvé {01}!</string>
 
 	<!-- PvP short battle stats -->
-	<string id="5200">Tour #{00}</string>
+	<string id="5200">Tour {00}</string>
 	<string id="5201">Temps: {00}</string>
 
 	<!-- Repel/Lure -->
