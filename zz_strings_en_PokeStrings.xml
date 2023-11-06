@@ -463,9 +463,14 @@
 	<string id="16807041"> <!--{00} a projeté une barrière protectrice,\nréduisant les dégâts reçus!--></string>
 	<string id="16807042"> <!--La barrière protectrice de {00} a été affaiblie !--></string>
 	<string id="16807043"> <!--La barrière protectrice de {00} a disparu!--></string>
+	<string id="200518"> <!--{00} souffre des\nrêves de fièvre!--></string>
 	<string id="200519"> <!--{00} souffrent des\nrêves de fièvre!--></string>
 	<string id="200520"> <!--{00} étouffé par sa fièvre!--></string>
 	<string id="200382"> <!--{00} est terrifié!--></string>
 	<string id="200397"> <!--{00} cherche une sortie!--></string>
 	<string id="200383"> <!--{00} a fui!--></string>
+	<string id="200358"> <!--{00} est enveloppé par des de vignes enchevêtrées!--></string>
+	<string id="200512"> <!--Les effets du Cookie Balais ont protégé votre équipe des chutes d'étoiles !--></string>
+	<string id="200370"> <!--Une tempête se prépare.--></string>
+	<string id="200369"> <!--La tempête fait rage.--></string>
 </strings>
