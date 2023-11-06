@@ -426,4 +426,46 @@
 	<string id="101610">Restore 25% HP when eaten.\nWhen fighting Pumpking, heals the\nallied field by 33%.</string>
 	<string id="101611">Restore 25% HP when eaten.\nWhen fighting Pumpking, heals the\nallied field of status ailments.</string>
 	<string id="101612">Restore 25% HP when eaten.\nWhen fighting Pumpking, doubles\nallied field's speed. Lasts 4 turns.</string>
+
+	<!-- Pumpking dialogues -->
+	<string id="16800030"> <!--Gwahaha!\nImbéciles!\n\nGrâce à vous\nJ'ai enfin été ranimé!\n\nAvec autant de {STRING_100033},\nje suis invincible!--></string>
+	<string id="16800031"> <!--Bah, t'as eu du bol.\n\nTu m'as attrapé juste avant que je ne puisse\nmanger tous mes {STRING_100033}!\n\n*Munch* *Munch*\n\n*Burp Burp*--></string>
+	<string id="16800032"> <!--C'est mieux comme ça!--></string>
+	<string id="16800033"> <!--Gwahaha!\nC'était même pas ma forme finale!\n\n*Munch* *Munch*\n\n*Burp Burp*--></string>
+	<string id="16800034"> <!--Mwahahahaha!--></string>
+	<string id="16800035"> <!--Hmph... Tu m'as battu cette fois,\nmais je reviendrai !--></string>
+	<string id="16800037"> <!--La citrouille regarde, une fois de plus sans vie.--></string>
+	<string id="16800038"> <!--Gwahahaha!\nIdiots!\n\nGrâce à vous\nje suis revenu à la vie!\n\nAvec autant de {STRING_100033},\nje suis imbattable!--></string>
+	<string id="16800040"> <!--La citrouille regarde d'un air menaçant...\nVoulez-vous la nourrir avec des bonbons?--></string>
+	<string id="16800041"> <!--{01} jeta le {00} dedans.--></string>
+	<string id="16800042"> <!--La citrouille est devenue vivante!--></string>
+	<string id="16800043"> <!--Gwahaha!\nTu en veux encore?!\n\nAvec autant de {STRING_100033}\ntu n'as aucune chance!--></string>
+	<string id="16800044"> <!--Grr..\nPourquoi es tu si fort?!\n\n*Munch Munch*\n\n*Burp Burp*--></string>
+	<string id="16800045"> <!--Ca suffit !\nFinissons en !\n\n*Munch* *Munch*\n\n*Burp Burp*\n\n...\n...\n\nC'est mieux comme ça !--></string>
+	<string id="16800052"> <!--Le Pumpking attend votre défi.\nActiver le mode difficile ?--></string>
+
+	<!-- Pumpking battle -->
+	<string id="200499"> <!--{00} est devenu enragé\net a attaqué !--></string>
+	<string id="16807041"> <!--{00} a projeté une barrière protectrice,\nréduisant les dégâts reçus!--></string>
+	<string id="5037"> <!--Le {00} sauvage invoque un {01}!--></string>
+	<string id="200356"> <!--{00} a été libéré des lianes enchevêtrées!--></string>
+	<string id="200357"> <!--Les lianes enchevêtrées se sont flétries !--></string>
+	<string id="200366"> <!--Votre équipe était enveloppée dans des lianes enchevêtrées !--></string>
+	<string id="200396"> <!--La force de {00} s'est fanée...--></string>
+	<string id="200523"> <!--Les défenses de {00} se sont flétries...--></string>
+	<string id="200389"> <!--{00} a englouti un tas\nde Bonbons Frissons!--></string>
+	<string id="200390"> <!--{00} est toujours affamé!--></string>
+	<string id="200391"> <!--{00} a faim de plus!--></string>
+	<string id="200392"> <!--{00} est repu.--></string>
+	<string id="200393"> <!--{00} est plein!--></string>
+	<string id="200394"> <!--Votre équipe a été drainé par les\nvignes enchevêtrées!--></string>
+	<string id="200395"> <!--{00} a récolté les changements\nde stat du terrain!--></string>
+	<string id="16807041"> <!--{00} a projeté une barrière protectrice,\nréduisant les dégâts reçus!--></string>
+	<string id="16807042"> <!--La barrière protectrice de {00} a été affaiblie !--></string>
+	<string id="16807043"> <!--La barrière protectrice de {00} a disparu!--></string>
+	<string id="200519"> <!--{00} souffrent des\nrêves de fièvre!--></string>
+	<string id="200520"> <!--{00} étouffé par sa fièvre!--></string>
+	<string id="200382"> <!--{00} est terrifié!--></string>
+	<string id="200397"> <!--{00} cherche une sortie!--></string>
+	<string id="200383"> <!--{00} a fui!--></string>
 </strings>
