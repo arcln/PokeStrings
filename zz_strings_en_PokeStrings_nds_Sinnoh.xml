@@ -307,4 +307,11 @@
 	<string block_id="0" entry_id="2332" table_id="617"> <!-- Challenge --></string>
 	<string block_id="0" entry_id="2333" table_id="617"> <!-- Victory Combat Text --></string>
 	<string block_id="0" entry_id="2334" table_id="617">Pas prêt..</string>
+
+	<!-- Stealth rock -->
+	<string block_id="0" entry_id="1077" table_id="368">\n</string>
+    <string block_id="0" entry_id="1078" table_id="368">\n</string>
+    <string block_id="0" entry_id="1079" table_id="368">\n</string>
+    <string block_id="0" entry_id="1080" table_id="368">\n</string>
+    <string block_id="0" entry_id="1081" table_id="368">\n</string>
 </ds_strings_archive>
