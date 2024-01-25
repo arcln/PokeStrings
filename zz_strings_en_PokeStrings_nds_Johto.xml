@@ -234,4 +234,11 @@
  <string block_id="0" entry_id="7" table_id="631">{12}</string>
  <string block_id="0" entry_id="8" table_id="631">{12}</string>
  <string block_id="0" entry_id="9" table_id="631">{12}</string>
+
+	<!-- stealth rock -->
+ <string block_id="0" entry_id="1077" table_id="197">\n</string>
+ <string block_id="0" entry_id="1078" table_id="197">\n</string>
+ <string block_id="0" entry_id="1079" table_id="197">\n</string>
+ <string block_id="0" entry_id="1080" table_id="197">\n</string>
+ <string block_id="0" entry_id="1081" table_id="197">\n</string>
 </ds_strings_archive>
